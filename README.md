@@ -1,56 +1,159 @@
-# Hi, I'm Shubham Singh 👋
+<div align="center">
 
-### LLM Post-Training | AI Evaluation | Python | Full-Stack
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Shubham+%F0%9F%91%BE;LLM+Post-Training+Intern+%40+Ethara+AI;Building+Kaiju+%E2%80%94+AI+Eval+at+Scale;Backend+%7C+Full-Stack+%7C+AI+%2F+ML+Eng" alt="Typing SVG" />
 
-I work at the intersection of **human feedback and model quality** — currently doing LLM post-training evaluation at **Ethara AI**, where I analyze multi-turn conversational AI responses across 5 quality dimensions to help fine-tune large language models.
-
----
-
-## 🧠 What I'm Working On
-
-- 🔬 **LLM Post-Training Intern @ Ethara AI** — Evaluating model responses across Instruction Following, Truthfulness, Prompt Correctness, Writing Quality, and Verbosity dimensions in multi-turn conversations
-- 🛠️ **[LLM Response Evaluator](https://github.com/bihari-bhau/llm-response-evaluator)** — Built a Streamlit tool to evaluate and compare LLM responses using RLHF-inspired scoring
-- 📊 Tracking multi-turn response degradation patterns to surface actionable model insights
+</div>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
 
-**AI / ML**
-`LLM Evaluation` `RLHF` `Post-Training` `Prompt Engineering` `Data Annotation`
+<!-- Banner SVG - custom terminal card -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=header&text=&fontColor=000000&animation=fadeIn" />
 
-**Languages**
-`Python` `Java` `TypeScript` `SQL`
+</div>
 
-**Frameworks & Tools**
-`Streamlit` `Django` `React Native` `Git` `HTML/CSS`
+```bash
+$ whoami
+  Shubham | bihari-bhau | Gurugram, India 🇮🇳
+
+$ cat current_role.txt
+  LLM Post-Training Intern @ Ethara AI
+  → Benchmarking AI coding agents (Kaiju pipeline)
+  → Built on the Commit0 paper (ICLR 2025)
+  → Evaluating: GPT-4, Claude 3.5, Gemini and more
+
+$ cat stack.json
+  {
+    "languages":   ["Python", "TypeScript", "JavaScript", "Java", "SQL"],
+    "backend":     ["FastAPI", "Node.js", "PostgreSQL", "SQLAlchemy", "Alembic"],
+    "frontend":    ["React", "Tailwind CSS", "HTML/CSS"],
+    "ai_ml":       ["LLM Eval", "RLHF", "AST Manipulation", "Pytest Benchmarking"],
+    "devops":      ["Docker", "Docker Compose", "Git", "GitHub Actions"],
+    "tools":       ["n8n", "Postman", "VS Code"]
+  }
+```
 
 ---
 
-## 📌 Featured Project
+<div align="center">
 
-### 🧠 [LLM Response Quality Evaluator](https://github.com/bihari-bhau/llm-response-evaluator)
-> A tool for evaluating LLM responses across 5 RLHF-inspired dimensions with automatic pattern detection across multi-turn conversations.
+## ⚡ Kaiju — AI Coding Agent Benchmarking Pipeline
 
-- Scores responses on Instruction Following, Truthfulness, Prompt Correctness, Writing Quality, Verbosity
-- Logs all evaluations and auto-surfaces degradation patterns after 5+ entries
-- Built with Python + Streamlit
+</div>
+
+> *Benchmarks AI agents on reconstructing Python libraries from scratch.*  
+> Based on **Commit0** (arXiv:2412.01769, ICLR 2025).
+
+```
+GitHub Repos  →  AST Stripper  →  Stubs  →  AI Agent  →  pytest  →  Score
+(2000+ ⭐)        (function       (empty     (Claude /     (pass      (ethara
+ 80%+ Python)      bodies → ∅)    shells)    GPT-4 / ...)   rate)      splits)
+```
+
+**Custom Ethara splits:**  
+`ethara` → 8 libraries &nbsp;|&nbsp; `ethara-lite` → 4 libraries
 
 ---
+
+<div align="center">
+
+## 🛠 Projects
+
+</div>
+
+| Project | Stack | What it does |
+|---|---|---|
+| 🦖 **[Kaiju](https://github.com/bihari-bhau/rlhf-eval)** | Python · AST · pytest | AI coding agent benchmarking pipeline |
+| 📊 **[rlhf-eval](https://github.com/bihari-bhau/rlhf-eval)** | React · FastAPI · PostgreSQL · Docker | Full-stack RLHF dataset builder with pairwise comparisons, JSONL export |
+| 🌦 **Weather-Aware Order Checker** | Node.js · OpenWeatherMap API | Order decisions based on real-time weather via `Promise.all` |
+| 🎯 **Lead Sniper** | n8n · LLM · Slack/Discord | GitHub stargazer → enrichment → LLM pitch → auto-delivery |
+| 📚 **Bihar Skill Hub** | HTML · CSS · JS | Ed-tech platform concept for Bihar's skill gap |
+| 🍽 **Meal-Buddy** | Python · FastAPI | Meal planning and suggestion API |
+
+---
+
+<div align="center">
 
 ## 📈 GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bihari-bhau&show_icons=true&theme=dark&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bihari-bhau&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF88&icon_color=00FF88&text_color=AAFFCC&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihari-bhau&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF88&text_color=AAFFCC&langs_count=6" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bihari-bhau&layout=compact&theme=dark&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bihari-bhau&theme=dark&hide_border=true&background=0D0D0D&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=AAFFCC&dates=666666" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/biharibhau)
-[![GitHub](https://img.shields.io/badge/GitHub-bihari--bhau-black?style=flat&logo=github)](https://github.com/bihari-bhau)
+## 🧠 Internship Metrics @ Ethara AI
+
+</div>
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  🔬  LLMs Evaluated          →  6+  (GPT-4, Claude, Gemini...)  │
+│  📦  Python Repos Processed  →  100+ (repo_finder.py pipeline)  │
+│  ✅  Eval Criteria           →  38   (per repo, automated)      │
+│  📝  Annotated RLHF Samples  →  500+                            │
+│  🏗   Custom Benchmark Splits →  2    (ethara / ethara-lite)     │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-*Open to full-time roles in LLM Evaluation, RLHF, AI Data Quality, and Post-Training. Let's connect!*
+<div align="center">
+
+## 🎓 Background
+
+</div>
+
+```python
+education = {
+    "degree":     "B.Tech — Electrical & Electronics Engineering",
+    "college":    "Sershah Engineering College, Bihar",
+    "batch":      "2025",
+    "training":   "Java Full Stack @ JSpiders, Noida",
+    "transition": "EEE → Software → AI/ML Engineering 🚀"
+}
+```
+
+---
+
+<div align="center">
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-biharibhau-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D0D0D)](https://linkedin.com/in/biharibhau)
+[![GitHub](https://img.shields.io/badge/GitHub-bihari--bhau-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D0D0D)](https://github.com/bihari-bhau)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF88?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0D0D0D)](https://github.com/bihari-bhau/portfolio)
+[![Email](https://img.shields.io/badge/Email-sdr95958@gmail.com-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D0D0D)](mailto:sdr95958@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bihari-bhau/bihari-bhau/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bihari-bhau/bihari-bhau/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bihari-bhau/bihari-bhau/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=80&section=footer&animation=fadeIn" />
+
+*"Ship it. Benchmark it. Improve it."*
+
+</div>
