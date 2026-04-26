@@ -15,7 +15,7 @@
 </div>
 
 ```bash
-$ whoami
+$ who am I?
   Shubham | bihari-bhau | Gurugram, India 🇮🇳
 
 $ cat current_role.txt
