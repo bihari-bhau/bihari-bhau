@@ -69,8 +69,8 @@ GitHub Repos  →  AST Stripper  →  Stubs  →  AI Agent  →  pytest  →  Sc
 | 📊 **[rlhf-eval](https://github.com/bihari-bhau/rlhf-eval)** | React · FastAPI · PostgreSQL · Docker | Full-stack RLHF dataset builder with pairwise comparisons, JSONL export |
 | 🌦 **Weather-Aware Order Checker** | Node.js · OpenWeatherMap API | Order decisions based on real-time weather via `Promise.all` |
 | 🎯 **Lead Sniper** | n8n · LLM · Slack/Discord | GitHub stargazer → enrichment → LLM pitch → auto-delivery |
-| 📚 **[Bihar Skill Hub](https://biharskillhub.co.in/)** | HTML · CSS · JS | Ed-tech platform concept for Bihar's skill gap |
-| 🍽 **Meal-Buddy** | Python · FastAPI | Meal planning and suggestion API |
+| 📚 **[Bihar Skill Hub](https://biharskillhub.co.in/)** | HTML · CSS · REACT | Ed-tech platform concept for Bihar's skill gap |
+| 🍽 **Meal-Buddy** | Python · Django · FastAPI | Meal planning and suggestion API |
 
 ---
 
