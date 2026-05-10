@@ -67,7 +67,7 @@ GitHub Repos  →  AST Stripper  →  Stubs  →  AI Agent  →  pytest  →  Sc
 |---|---|---|
 | 🦖 **[Kaiju](https://github.com/bihari-bhau/rlhf-eval)** | Python · AST · pytest | AI coding agent benchmarking pipeline |
 | 📊 **[rlhf-eval](https://github.com/bihari-bhau/rlhf-eval)** | React · FastAPI · PostgreSQL · Docker | Full-stack RLHF dataset builder with pairwise comparisons, JSONL export |
-| **[llm-toolkit](https://github.com/bihari-bhau/llm-toolkit.git)** |
+| **🛠️ LLM Toolkit (https://llm-toolkit.vercel.app/)** | Next.js · TypeScript · TailwindCSS · Supabase | Modular toolkit for experimenting with LLM prompts, evaluations, and dataset workflows |
 | 🌦 **Weather-Aware Order Checker** | Node.js · OpenWeatherMap API | Order decisions based on real-time weather via `Promise.all` |
 | 🎯 **Lead Sniper** | n8n · LLM · Slack/Discord | GitHub stargazer → enrichment → LLM pitch → auto-delivery |
 | 📚 **[Bihar Skill Hub](https://biharskillhub.co.in/)** | HTML · CSS · REACT | Ed-tech platform concept for Bihar's skill gap |
