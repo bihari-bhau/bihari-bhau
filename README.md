@@ -29,7 +29,7 @@ $ cat stack.json
     "languages":   ["Python", "TypeScript", "JavaScript", "Java", "SQL"],
     "backend":     ["FastAPI", "Node.js", "PostgreSQL", "SQLAlchemy", "Alembic"],
     "frontend":    ["React", "Tailwind CSS", "HTML/CSS"],
-    "ai_ml":       ["LLM Eval", "RLHF", "AST Manipulation", "Pytest Benchmarking"],
+    "ai_ml":       ["LLM Eval", "RLHF", "RLHV", "AST Manipulation", "Pytest Benchmarking"],
     "devops":      ["Docker", "Docker Compose", "Git", "GitHub Actions"],
     "tools":       ["n8n", "Postman", "VS Code"]
   }
