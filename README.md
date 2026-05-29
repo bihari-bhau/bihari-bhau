@@ -16,13 +16,13 @@
 
 ```bash
 $ who am I?
-  Shubham | bihari-bhau | Gurugram, India 🇮🇳
+  Shubham Singh | bihari-bhau | Gurugram, India 🇮🇳
 
 $ cat current_role.txt
   LLM Post-Training Intern @ Ethara AI
   → Benchmarking AI coding agents (Kaiju pipeline)
   → Built on the Commit0 paper (ICLR 2025)
-  → Evaluating: GPT-4, Claude 3.5, Gemini and more
+  → Evaluating: GPT-4, Claude 4.7, Gemini and more
 
 $ cat stack.json
   {
