@@ -4,7 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=header&animation=fadeIn" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=bihari-bhau&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+> 🟢 &nbsp;**Open to full-time roles** &nbsp;·&nbsp; AI/ML Engineering &nbsp;·&nbsp; Backend &nbsp;·&nbsp; LLM Infra &nbsp;·&nbsp; Batch 2025
+
 </div>
+
+---
 
 ```bash
 $ whoami
@@ -15,7 +23,7 @@ $ cat current.txt
   ↳ Built Kaiju — AI coding agent benchmark pipeline (Commit0 / ICLR 2025)
   ↳ Evaluating GPT-4o, Claude 4.7, Gemini across 100+ Python repos
   ↳ 500+ RLHF samples annotated · 38 eval criteria · 6+ LLMs benchmarked
-  ↳ Transitioned: EEE → Full-Stack → AI/ML Engineering 🚀
+  ↳ Journey: EEE → Full-Stack → AI/ML Engineering 🚀
 ```
 
 ---
@@ -87,15 +95,15 @@ $ cat current.txt
 
 </div>
 
-| Project | Stack | What it does |
-|---|---|---|
-| 🦖 **[Kaiju](https://github.com/bihari-bhau/kaiju)** | Python · AST · pytest | AI coding agent benchmarking pipeline (Commit0 / ICLR 2025) |
-| 📊 **[rlhf-eval](https://github.com/bihari-bhau/rlhf-eval)** | React · FastAPI · PostgreSQL · Docker | Full-stack RLHF dataset builder — pairwise comparisons, JSONL export |
-| 🧰 **[LLM Toolkit](https://llm-toolkit.vercel.app/)** | Next.js · TypeScript · Tailwind · Supabase | Modular toolkit for LLM prompt experiments, evals, and dataset workflows |
-| 🎯 **Lead Sniper** | n8n · LLM · Slack/Discord | GitHub stargazer → enrichment → LLM pitch → auto-delivery |
-| 🌦 **Weather-Aware Order Checker** | Node.js · OpenWeatherMap API | Order decisions driven by real-time weather via `Promise.all` |
-| 📚 **[Bihar Skill Hub](https://biharskillhub.co.in/)** | React · HTML · CSS | Ed-tech platform bridging Bihar's skill gap |
-| 🍽 **Meal-Buddy** | Python · Django · FastAPI | Meal planning and suggestion API |
+| Project | Stack | What it does | Live |
+|---|---|---|---|
+| 🦖 **[Kaiju](https://github.com/bihari-bhau/kaiju)** | Python · AST · pytest | AI coding agent benchmarking pipeline (Commit0 / ICLR 2025) | — |
+| 📊 **[rlhf-eval](https://github.com/bihari-bhau/rlhf-eval)** | React · FastAPI · PostgreSQL · Docker | Full-stack RLHF dataset builder — pairwise comparisons, JSONL export | — |
+| 🧰 **[LLM Toolkit](https://github.com/bihari-bhau/llm-toolkit)** | Next.js · TypeScript · Tailwind · Supabase | Modular toolkit for LLM prompt experiments, evals, and dataset workflows | [🔗](https://llm-toolkit.vercel.app/) |
+| 🎯 **Lead Sniper** | n8n · LLM · Slack/Discord | GitHub stargazer → enrichment → LLM pitch → auto-delivery | — |
+| 🌦 **Weather-Aware Order Checker** | Node.js · OpenWeatherMap API | Order decisions driven by real-time weather via `Promise.all` | — |
+| 📚 **[Bihar Skill Hub](https://github.com/bihari-bhau/bihar-skill-hub)** | React · HTML · CSS | Ed-tech platform bridging Bihar's skill gap | [🔗](https://biharskillhub.co.in/) |
+| 🍽 **Meal-Buddy** | Python · Django · FastAPI | Meal planning and suggestion API | — |
 
 ---
 
@@ -129,6 +137,20 @@ $ cat current.txt
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bihari-bhau&theme=dark&hide_border=true&background=0D0D0D&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=AAFFCC&dates=666666" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bihari-bhau&bg_color=0D0D0D&color=00FF88&line=00FF88&point=AAFFCC&area=true&area_color=00FF8820&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=bihari-bhau&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
 </div>
 
 ---
@@ -141,11 +163,11 @@ $ cat current.txt
 
 ```python
 education = {
-    "degree":     "B.Tech — Electrical & Electronics Engineering",
-    "college":    "Sershah Engineering College, Bihar",
-    "batch":      "2025",
-    "training":   "Java Full Stack @ JSpiders, Noida",
-    "arc":        "EEE → Full-Stack Dev → AI/ML Engineering 🚀",
+    "degree":   "B.Tech — Electrical & Electronics Engineering",
+    "college":  "Sershah Engineering College, Bihar",
+    "batch":    "2025",
+    "training": "Java Full Stack @ JSpiders, Noida",
+    "journey":  "EEE → Full-Stack Dev → AI/ML Engineering 🚀",
 }
 ```
 
@@ -157,7 +179,7 @@ education = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-biharibhau-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D0D0D)](https://linkedin.com/in/biharibhau)
 [![GitHub](https://img.shields.io/badge/GitHub-bihari--bhau-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D0D0D)](https://github.com/bihari-bhau)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF88?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0D0D0D)](https://github.com/bihari-bhau/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF88?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0D0D0D)]([https://github.com/bihari-bhau/portfolio](https://shubham-portfolio-topaz-tau.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-sdr95958%40gmail.com-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D0D0D)](mailto:sdr95958@gmail.com)
 
 </div>
