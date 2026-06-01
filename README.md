@@ -179,7 +179,7 @@ education = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-biharibhau-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D0D0D)](https://linkedin.com/in/biharibhau)
 [![GitHub](https://img.shields.io/badge/GitHub-bihari--bhau-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D0D0D)](https://github.com/bihari-bhau)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF88?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0D0D0D)]([https://github.com/bihari-bhau/portfolio](https://shubham-portfolio-topaz-tau.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF88?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0D0D0D)]((https://shubham-portfolio-topaz-tau.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-sdr95958%40gmail.com-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D0D0D)](mailto:sdr95958@gmail.com)
 
 </div>
