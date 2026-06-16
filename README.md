@@ -97,12 +97,13 @@ $ cat current.txt
 
 | Project | Stack | What it does | Live |
 |---|---|---|---|
+| 📚 **[TaskFlow](https://github.com/bihari-bhau/TaskFlow)** | React · Express · MongoDB | Productivity platform for task management, workflow tracking, and team organization | [🔗](https://vibrant-inspiration-production-f24a.up.railway.app/) |
+| 📚 **[Bihar Skill Hub](https://github.com/bihari-bhau/bihar-skill-hub)** | React · HTML · CSS | Ed-tech platform bridging Bihar's skill gap | [🔗](https://biharskillhub.co.in/) |
 | 🦖 **[Kaiju](https://github.com/bihari-bhau/kaiju)** | Python · AST · pytest | AI coding agent benchmarking pipeline (Commit0 / ICLR 2025) | — |
 | 📊 **[rlhf-eval](https://github.com/bihari-bhau/rlhf-eval)** | React · FastAPI · PostgreSQL · Docker | Full-stack RLHF dataset builder — pairwise comparisons, JSONL export | — |
 | 🧰 **[LLM Toolkit](https://github.com/bihari-bhau/llm-toolkit)** | Next.js · TypeScript · Tailwind · Supabase | Modular toolkit for LLM prompt experiments, evals, and dataset workflows | [🔗](https://llm-toolkit.vercel.app/) |
 | 🎯 **Lead Sniper** | n8n · LLM · Slack/Discord | GitHub stargazer → enrichment → LLM pitch → auto-delivery | — |
 | 🌦 **Weather-Aware Order Checker** | Node.js · OpenWeatherMap API | Order decisions driven by real-time weather via `Promise.all` | — |
-| 📚 **[Bihar Skill Hub](https://github.com/bihari-bhau/bihar-skill-hub)** | React · HTML · CSS | Ed-tech platform bridging Bihar's skill gap | [🔗](https://biharskillhub.co.in/) |
 | 🍽 **Meal-Buddy** | Python · Django · FastAPI | Meal planning and suggestion API | — |
 
 ---
